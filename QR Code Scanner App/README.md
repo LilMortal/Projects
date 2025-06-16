@@ -80,47 +80,6 @@ A beautiful, modern, and feature-rich QR code scanner application built with Rea
 - **React Hooks**: Custom hooks for state management
 - **Context API**: Theme management across components
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 16+ and npm/yarn
-- Modern web browser with camera support
-- HTTPS connection (required for camera access)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd qr-scanner-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser**
-   Navigate to `http://localhost:5173` (or the URL shown in terminal)
-
-### Building for Production
-
-1. **Create production build**
-   ```bash
-   npm run build
-   ```
-
-2. **Preview production build**
-   ```bash
-   npm run preview
-   ```
-
-The built files will be in the `dist/` directory, ready for deployment.
 
 ## 📱 Device Support & Permissions
 
@@ -182,26 +141,6 @@ src/
 - **Error Boundaries**: Graceful error handling throughout the app
 - **Responsive Design**: Mobile-first approach with progressive enhancement
 
-## 🌐 Deployment
-
-### Recommended Platforms
-- **Vercel**: Zero-config deployment with automatic HTTPS
-- **Netlify**: Simple drag-and-drop deployment
-- **GitHub Pages**: Free hosting for open-source projects
-- **Firebase Hosting**: Google's fast, secure hosting
-
-### Deployment Steps (Vercel)
-1. Connect your GitHub repository to Vercel
-2. Configure build settings:
-   - Build Command: `npm run build`
-   - Output Directory: `dist`
-3. Deploy automatically on every push to main branch
-
-### HTTPS Requirement
-- Camera access requires HTTPS in production
-- All recommended platforms provide automatic HTTPS
-- For custom domains, ensure SSL certificate is configured
-
 ## 🧪 Browser Testing
 
 ### Cross-Browser Compatibility
@@ -228,11 +167,7 @@ src/
 - Include use cases and mockups when possible
 - Consider accessibility implications
 - Maintain focus on core scanning functionality
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
+  
 ## 🙏 Acknowledgments
 
 - **qr-scanner**: Excellent QR scanning library
