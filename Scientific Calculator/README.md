@@ -165,28 +165,6 @@ src/
 - Node.js (version 16 or higher)
 - npm or yarn package manager
 
-### Installation Steps
-
-1. **Clone or download the project**
-   ```bash
-   git clone <repository-url>
-   cd scientific-calculator
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser**
-   - Navigate to `http://localhost:5173`
-   - The calculator will automatically reload as you make changes
-
 ### Build for Production
 
 ```bash
@@ -253,10 +231,6 @@ This calculator is designed to be easily extensible. To add new features:
 2. **New Button Types**: Extend the `ButtonType` union in `calculator.ts`
 3. **UI Enhancements**: Modify components while maintaining the design system
 4. **Additional Features**: Follow the existing patterns for state management
-
-## License
-
-This project is open source and available under the MIT License.
 
 ---
 
