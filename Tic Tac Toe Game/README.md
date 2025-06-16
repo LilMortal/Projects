@@ -76,47 +76,6 @@ The game employs a **modern light theme** with careful attention to visual hiera
 - **TypeScript Interfaces** - Strong typing for game state and logic
 - **Separation of Concerns** - Clear division between UI, logic, and utilities
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (version 16 or higher)
-- npm or yarn package manager
-
-### Installation & Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd modern-tic-tac-toe
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**:
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser**:
-   Navigate to `http://localhost:5173` to play the game
-
-### Build for Production
-
-1. **Create production build**:
-   ```bash
-   npm run build
-   ```
-
-2. **Preview production build**:
-   ```bash
-   npm run preview
-   ```
-
-The built files will be in the `dist` directory, ready for deployment.
-
 ## 🏗 Project Structure
 
 ```
@@ -172,24 +131,6 @@ The AI opponent uses a simple random move selection strategy:
 - **Accessibility**: Enhanced screen reader support
 - **Performance**: Code splitting and lazy loading
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push code to GitHub repository
-2. Connect repository to Vercel
-3. Vercel will automatically deploy on every push
-
-### Netlify
-1. Run `npm run build`
-2. Upload `dist` folder to Netlify
-3. Configure build settings: Build command: `npm run build`, Publish directory: `dist`
-
-### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add to package.json: `"homepage": "https://yourusername.github.io/modern-tic-tac-toe"`
-3. Add deploy script: `"deploy": "gh-pages -d dist"`
-4. Run: `npm run build && npm run deploy`
-
 ## 📝 Development Notes
 
 ### Code Quality
@@ -209,10 +150,6 @@ While not implemented in this version, the codebase is structured for easy testi
 - **Pure Functions**: Game logic separated from UI components
 - **Mocked Dependencies**: AI and utility functions can be easily mocked
 - **Component Testing**: Each component has clear props and responsibilities
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
