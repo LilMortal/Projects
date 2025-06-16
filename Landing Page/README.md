@@ -72,47 +72,6 @@ ProductiveFlow is a fictional productivity platform landing page designed to dem
 - **Lucide React**: Beautiful, customizable icons
 - **React DOM**: React rendering library
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (version 16 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd productiveflow-landing
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173` to view the application
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-This creates an optimized production build in the `dist` folder.
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
-
 ## 📱 Responsive Design
 
 The landing page is designed with a mobile-first approach and includes specific breakpoints:
@@ -149,26 +108,6 @@ The landing page is designed with a mobile-first approach and includes specific 
 - Success confirmation states
 - Progressive enhancement
 - Graceful degradation
-
-## 🚀 Deployment
-
-### Recommended Platforms
-
-#### Vercel (Recommended)
-1. Connect your GitHub repository to Vercel
-2. Vercel automatically detects the Vite configuration
-3. Deploy with zero configuration needed
-
-#### Netlify
-1. Build the project: `npm run build`
-2. Deploy the `dist` folder to Netlify
-3. Configure build settings: Build command `npm run build`, Publish directory `dist`
-
-#### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add to package.json: `"homepage": "https://yourusername.github.io/repository-name"`
-3. Add deploy script: `"deploy": "gh-pages -d dist"`
-4. Run: `npm run build && npm run deploy`
 
 ### Environment Variables
 No environment variables are required for the basic landing page functionality.
@@ -227,10 +166,6 @@ The landing page is optimized for:
 3. Commit your changes: `git commit -am 'Add feature'`
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License. See LICENSE file for details.
 
 ## 📞 Support
 
