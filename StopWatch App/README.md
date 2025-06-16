@@ -2,8 +2,6 @@
 
 A beautiful, feature-rich stopwatch application built with React, TypeScript, and Tailwind CSS. This app provides precision timing with an elegant, responsive interface that works perfectly on both mobile and desktop devices.
 
-![Stopwatch App](https://images.pexels.com/photos/1428278/pexels-photo-1428278.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
-
 ## ✨ Features
 
 ### Core Functionality
@@ -66,27 +64,6 @@ The app follows modern design principles with emphasis on:
 - Node.js 16+ 
 - npm or yarn package manager
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd stopwatch-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser**
-   Navigate to `http://localhost:5173`
-
 ### Building for Production
 
 ```bash
@@ -145,37 +122,6 @@ npm run preview
 - **Storage Errors**: Graceful fallback if localStorage unavailable
 - **Invalid Data**: Sanitizes and validates stored data on load
 
-## 📦 Deployment
-
-### Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy to Vercel
-vercel --prod
-```
-
-### Netlify
-```bash
-# Build the project
-npm run build
-
-# Deploy dist folder to Netlify
-```
-
-### GitHub Pages
-```bash
-# Install gh-pages
-npm install --save-dev gh-pages
-
-# Add to package.json scripts:
-"deploy": "gh-pages -d dist"
-
-# Deploy
-npm run build && npm run deploy
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -184,9 +130,6 @@ npm run build && npm run deploy
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-MIT License - see LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
