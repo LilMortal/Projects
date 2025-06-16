@@ -65,42 +65,6 @@ The app follows modern design principles with:
 - npm or yarn package manager
 - OpenWeatherMap API key (free account required)
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd modern-weather-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env
-   ```
-
-4. **Get your OpenWeatherMap API key**
-   - Visit [OpenWeatherMap API](https://openweathermap.org/api)
-   - Sign up for a free account
-   - Generate an API key
-   - Add it to your `.env` file:
-     ```
-     VITE_OPENWEATHER_API_KEY=your_api_key_here
-     ```
-
-5. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-6. **Open your browser**
-   - Navigate to `http://localhost:5173`
-   - Allow location access for automatic weather detection
-
 ## 📱 Usage Guide
 
 ### Getting Weather Information
@@ -114,18 +78,6 @@ The app follows modern design principles with:
 - **Hourly Forecast**: Scroll horizontally through the next 24 hours
 - **Weekly Forecast**: See the 7-day outlook with precipitation chances
 - **Weather Details**: Wind, humidity, pressure, visibility, sunrise, and sunset times
-
-## 🔧 Configuration
-
-### Environment Variables
-```bash
-VITE_OPENWEATHER_API_KEY=your_openweathermap_api_key
-```
-
-### API Rate Limits
-- Free tier: 1,000 calls/day, 60 calls/minute
-- Weather data updates every 10 minutes
-- App includes intelligent caching to minimize API calls
 
 ## 🚨 Error Handling
 
@@ -162,23 +114,6 @@ The app gracefully handles various error scenarios:
    - The `dist` folder contains all static assets
    - Configure your hosting to serve `index.html` for all routes
 
-## 🌐 Deployment Options
-
-### Vercel (Recommended)
-1. Connect your GitHub repository to Vercel
-2. Add your `VITE_OPENWEATHER_API_KEY` environment variable
-3. Deploy automatically on every push
-
-### Netlify
-1. Drag and drop the `dist` folder to Netlify
-2. Or connect your Git repository for continuous deployment
-3. Set environment variables in Netlify dashboard
-
-### GitHub Pages
-1. Build the project locally
-2. Push the `dist` folder to a `gh-pages` branch
-3. Enable GitHub Pages in repository settings
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -186,10 +121,6 @@ The app gracefully handles various error scenarios:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
