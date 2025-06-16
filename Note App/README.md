@@ -62,32 +62,6 @@ NoteTaker follows Apple-level design aesthetics with attention to detail:
 - Node.js (v16 or higher)
 - npm or yarn package manager
 
-### Installation
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd note-taking-app
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Open your browser and navigate to `http://localhost:5173`
-
-### Building for Production
-```bash
-npm run build
-```
-
-The built files will be in the `dist` directory, ready for deployment.
-
 ## 📖 How to Use
 
 ### Creating Notes
@@ -141,28 +115,6 @@ The built files will be in the `dist` directory, ready for deployment.
 - **Lazy Loading**: Components load only when needed
 - **Memoized Calculations**: Prevents unnecessary re-renders
 
-## 🚀 Deployment
-
-The app is a static single-page application that can be deployed to any static hosting service:
-
-### Netlify
-```bash
-npm run build
-# Upload the dist folder to Netlify
-```
-
-### Vercel
-```bash
-npm run build
-# Deploy the dist folder to Vercel
-```
-
-### GitHub Pages
-```bash
-npm run build
-# Copy dist contents to your GitHub Pages repository
-```
-
 ## 🧪 Testing & Quality
 
 The application includes comprehensive error handling and has been tested for:
@@ -186,10 +138,6 @@ The application includes comprehensive error handling and has been tested for:
 ## 🤝 Contributing
 
 This is a portfolio project, but suggestions and improvements are welcome! The codebase is structured for easy extension and modification.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
