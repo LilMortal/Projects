@@ -171,4 +171,4 @@ For support, please open an issue on GitHub or contact our team at support@aethe
 
 ---
 
-Built with ❤️ by the AetherDraw team. Create something amazing!
+Built with ❤️ 
