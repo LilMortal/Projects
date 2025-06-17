@@ -12,21 +12,6 @@ I actively maintain and update these projects — feel free to explore, star, or
 
 ---
 
-## 🗂️ Project Structure
-
-Each project is organized in its own folder with relevant source code, assets, and documentation. Below is a high-level overview:
-
-| Project Name         | Description                                          | Technologies           |
-|----------------------|------------------------------------------------------|-----------------------|
-| **Project1**         | Brief description of what this project does         | JavaScript, React     |
-| **Project2**         | Brief description of what this project does         | Python, Flask         |
-| **Project3**         | Brief description of what this project does         | Java, Spring Boot     |
-| ...                  | ...                                                  | ...                   |
-
-*Note: Replace the project names and descriptions above with your actual projects.*
-
----
-
 ## 📦 Getting Started
 
 To run any project locally, follow these general steps:
