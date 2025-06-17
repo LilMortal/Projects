@@ -8,12 +8,6 @@
 
 A **modern, responsive, and interactive landing page** built with pure HTML5, CSS3, and JavaScript. This project demonstrates contemporary web design principles, smooth animations, and optimal user experience across all devices.
 
-## 🌟 Live Demo
-
-**[👉 View Live Demo](https://lilmortal.github.io/Projects/Landing%20Page)**
-
-![Landing Page Preview](./assets/images/preview.png)
-
 ## ✨ Features
 
 ### 🎨 **Modern Design**
