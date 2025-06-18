@@ -2,10 +2,6 @@
 
 A stunning, production-ready parallax scrolling website built with React, TypeScript, and Tailwind CSS. Features smooth animations, modern design, and flawless performance across all devices.
 
-## 🌐 Live Preview
-
-[View Live Demo](https://your-deployed-site.netlify.app) *(Replace with actual deployment URL)*
-
 ## ✨ Features
 
 ### 🎨 Visual Excellence
