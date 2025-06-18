@@ -424,26 +424,6 @@ MIT License - Feel free to use this code for learning, personal, or commercial p
 ```
 
 ---
-
-## 📞 Contact
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LilMortal)
-
-### 📧 **Email**: [your-email@domain.com](mailto:your-email@domain.com)
-
-*💡 Always open to interesting conversations and collaboration opportunities!*
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **If you found this helpful, please consider giving it a star!** ⭐
