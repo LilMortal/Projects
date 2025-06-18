@@ -2,9 +2,6 @@
 
 A fully functional, production-ready WhatsApp clone built with modern web technologies. Features real-time messaging, comprehensive error handling, responsive design, and advanced UI/UX.
 
-## 🌐 Live Demo
-[View Live Demo](https://your-demo-link.com) *(placeholder)*
-
 ## ✨ Features
 
 ### 🔐 Authentication
