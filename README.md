@@ -24,27 +24,6 @@ Welcome to my **digital laboratory** where I transform caffeine into code and id
 
 ---
 
-## 📸 **See It In Action**
-
-<div align="center">
-
-### 🎬 **Portfolio Demo Reel**
-![Demo GIF](https://via.placeholder.com/800x400/000000/FFFFFF?text=🚀+EPIC+PROJECT+SHOWCASE+🚀)
-*Live demos of my most impressive projects - updated weekly*
-
-### 🌐 **Web Development Showcase**
-![Web Demo](https://via.placeholder.com/600x300/4285F4/FFFFFF?text=💻+MODERN+WEB+APPS)
-
-### 🤖 **AI & Machine Learning**
-![AI Demo](https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=🧠+INTELLIGENT+SYSTEMS)
-
-### 📱 **Mobile Applications**
-![Mobile Demo](https://via.placeholder.com/600x300/4ECDC4/FFFFFF?text=📱+NATIVE+MOBILE+APPS)
-
-</div>
-
----
-
 ## ⚡ **TL;DR - Why You Should Care**
 
 🎯 **25+ Production-Ready Projects** spanning web development, AI, mobile apps, and developer tools  
